@@ -13,7 +13,7 @@ python3 monitor.py
 
 ## Built With
 
-* [Python 3]
+* Python 3
 
 ## Limitations
 
