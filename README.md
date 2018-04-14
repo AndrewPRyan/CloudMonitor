@@ -15,6 +15,10 @@ python3 monitor.py
 
 * Python 3
 
+## Requirements
+
+* There must be a /Dropbox and /Google Drive folder in the user directory
+
 ## Limitations
 
 * UNIX only support
