@@ -1,8 +1,8 @@
 # CloudMonitor
 
-Directory Monitoring and HTTP Web Traffic Parsing
+Directory Monitoring and HTTP Web Traffic Parsing with Email Notify
 
-Developed using Python 3
+Created with Python 3
 
 ## Build Steps
 ```
