@@ -2,12 +2,13 @@
 
 Directory Monitoring and HTTP Web Traffic Parsing
 
-Developed in Python 3
+Developed using Python 3
 
 ## Build Steps
 ```
 cd server
+python3 -m venv .
 source bin/activate
-pip install -r requirements.txt
-python3 mongo.py
+python3 monitor.py
+
 ```
