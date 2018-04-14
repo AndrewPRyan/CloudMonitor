@@ -2,8 +2,6 @@
 
 Directory Monitoring and HTTP Web Traffic Parsing with Email Notify
 
-Created with Python 3
-
 ## Build Steps
 ```
 cd server
@@ -12,3 +10,12 @@ source bin/activate
 python3 monitor.py
 
 ```
+
+## Built With
+
+* [Python 3]
+
+## Limitations
+
+* UNIX only support
+* Tested on macOS Sierra
